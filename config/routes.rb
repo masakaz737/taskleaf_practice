@@ -9,5 +9,7 @@ Rails.application.routes.draw do
     resources :users
   end
 
-  resources :tasks
+  resources :tasks do
+    post :confirm, action: :confirm_new, on: :new
+  end
 end
