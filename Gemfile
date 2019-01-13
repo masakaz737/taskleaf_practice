@@ -62,6 +62,7 @@ end
 gem 'bootstrap'
 gem 'html2slim'
 gem 'rails_autolink'
+gem 'ransack'
 gem 'rspec-rails'
 gem 'slim-rails'
 

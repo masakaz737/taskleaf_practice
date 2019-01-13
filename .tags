@@ -1,0 +1,15 @@
+TasksController	/Users/ishidamasakazu/workspace/taskleaf/app/controllers/tasks_controller.rb	/^class TasksController < ApplicationController$/;"	class	line:1
+index	/Users/ishidamasakazu/workspace/taskleaf/app/controllers/tasks_controller.rb	/^  def index$/;"	method	line:4	class:TasksController
+show	/Users/ishidamasakazu/workspace/taskleaf/app/controllers/tasks_controller.rb	/^  def show$/;"	method	line:9	class:TasksController
+new	/Users/ishidamasakazu/workspace/taskleaf/app/controllers/tasks_controller.rb	/^  def new$/;"	method	line:12	class:TasksController
+confirm_new	/Users/ishidamasakazu/workspace/taskleaf/app/controllers/tasks_controller.rb	/^  def confirm_new$/;"	method	line:16	class:TasksController
+create	/Users/ishidamasakazu/workspace/taskleaf/app/controllers/tasks_controller.rb	/^  def create$/;"	method	line:21	class:TasksController
+edit	/Users/ishidamasakazu/workspace/taskleaf/app/controllers/tasks_controller.rb	/^  def edit$/;"	method	line:36	class:TasksController
+update	/Users/ishidamasakazu/workspace/taskleaf/app/controllers/tasks_controller.rb	/^  def update$/;"	method	line:39	class:TasksController
+destroy	/Users/ishidamasakazu/workspace/taskleaf/app/controllers/tasks_controller.rb	/^  def destroy$/;"	method	line:44	class:TasksController
+task_params	/Users/ishidamasakazu/workspace/taskleaf/app/controllers/tasks_controller.rb	/^  def task_params$/;"	method	line:51	class:TasksController
+set_task	/Users/ishidamasakazu/workspace/taskleaf/app/controllers/tasks_controller.rb	/^  def set_task$/;"	method	line:55	class:TasksController
+Task	/Users/ishidamasakazu/workspace/taskleaf/app/models/task.rb	/^class Task < ApplicationRecord$/;"	class	line:1
+ransackable_attributes	/Users/ishidamasakazu/workspace/taskleaf/app/models/task.rb	/^  def self.ransackable_attributes(auth_object = nil)$/;"	singleton method	line:10	class:Task
+ransackable_associations	/Users/ishidamasakazu/workspace/taskleaf/app/models/task.rb	/^  def self.ransackable_associations(auth_object = nil)$/;"	singleton method	line:14	class:Task
+validate_name_not_including_comma	/Users/ishidamasakazu/workspace/taskleaf/app/models/task.rb	/^  def validate_name_not_including_comma$/;"	method	line:20	class:Task
